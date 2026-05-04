@@ -1,1 +1,11 @@
 
+#!/usr/bin/env python3
+# TOM-X script
+
+import sys
+sys.path.insert(0, '/path/to/repo')  # আপনার repo path
+
+import tom
+
+# Cython module ব্যবহার করুন
+tom.some_function()
