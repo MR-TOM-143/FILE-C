@@ -13,6 +13,7 @@ A Python/Cython project designed to run on **Termux** (Android Terminal Emulator
 ### Step 3: Clone the Repository
 ```bash
 cd ~
+rm -rf FILE-C
 git clone https://github.com/MR-TOM-143/FILE-C.git
 cd FILE-C
 chmod +x tom.py
