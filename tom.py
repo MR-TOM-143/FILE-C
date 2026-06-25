@@ -1,3 +1,2 @@
-import os
 import tom
-tom()
+print(dir(tom))
